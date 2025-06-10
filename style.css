@@ -1,0 +1,36 @@
+p {
+    font-family: Arial;
+    color: #f1e1e170;
+}
+
+h2 {
+    color: #FFDEDE;
+}
+
+body {
+    background-color: #FFDEDE;
+}
+
+.div1 {
+    background-color: #002121;
+    padding: 10px;
+}
+
+h3 {
+    color: #FFFFFF;
+}
+
+.div2 {
+    margin-top: 10px;
+}
+
+a {
+    color: #000000;
+    text-decoration-line: none;
+}
+
+.button {
+    padding: 5px;
+    background-color: #ffa135;
+    width: fit-content;
+}
